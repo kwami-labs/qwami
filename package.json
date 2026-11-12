@@ -21,14 +21,14 @@
     "@solana/web3.js": "^1.95.4",
     "bs58": "^6.0.0",
     "kwami": "^1.4.1",
-    "nuxt": "^3.14.0",
+    "nuxt": "^4.6.3",
     "pinia": "^2.2.7",
     "solana-wallets-vue": "^0.7.1",
     "three": "^0.171.0",
     "vue": "^3.5.13"
   },
   "devDependencies": {
-    "@nuxt/devtools": "^2.6.4",
+    "@nuxt/devtools": "^4.1.0",
     "@types/three": "^0.171.0",
     "typescript": "^5.6.3",
     "vue-tsc": "^2.2.12"
